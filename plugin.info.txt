@@ -1,0 +1,6 @@
+base   indexeverywhere
+author Sascha Zantis
+email  sascha.zantis@gmail.com
+date   2014-09-09
+name   indexeverywhere plugin
+desc   Adds the index to any page/sidebar, whatever. Is a copy of the core function you know from the page index, but doesn't include the p_locale_xhtml('index')
